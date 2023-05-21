@@ -20,7 +20,4 @@ public class Lab2 {
             return String.format("name: value", name.toString(), value.toString());
         }
     }
-
-
-
 }
